@@ -1,4 +1,4 @@
-# 目录结构
+# 从目录开始
 ## compiler 编译相关 
 ## core 核心代码 
 ## platforms 不同平台的支持
